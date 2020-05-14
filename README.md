@@ -4,5 +4,6 @@ A prototype game made for Windows & Mac where the player can interact with the e
 
 ## Sites
 - [Itch.io](https://cgoddard13.itch.io/colour)
+- [Painting Code Source](https://github.com/lukakostic/UnySplat)
 
 Note: Museum Prefab Object not included due to large file size.
